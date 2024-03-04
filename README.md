@@ -52,8 +52,7 @@ Ensure the following dependencies are installed externally:
 
 1. Run the Streamlit app:
     
-    streamlit run chatbot_AiReS.py
-    ```
+    ```streamlit run chatbot.py
 
 2. Upload research papers in PDF, DOCX, PPTX, or LaTeX formats.
 3. Click on the "Process" button to analyze the uploaded research papers.
